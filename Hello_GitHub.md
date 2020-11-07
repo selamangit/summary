@@ -1,4 +1,4 @@
-###Hello GitHub
+### Hello GitHub
 **学习GitHub的意义**
 GitHub是一个面向开源及私有软件的托管平台，在上面有来自世界各地的程序员发布的开源项目，这是一个很好的学习平台，而且它满足团队协作的优点，能让多人能够同时对一个项目进行编程。作为一个分布式的版本控制系统，它能让各位开发者在GItHub的库上克隆到本地库上进行编码，也可以通过Git上传到服务器上，适合分布开发。
 **使用GitHub的方法**
@@ -13,7 +13,7 @@ GitHub是一个面向开源及私有软件的托管平台，在上面有来自�
 ********
 在GitHub平台上可以点击Explore去发现其他人的开源项目，通过readme文档的介绍来选择感兴趣的项目，还可以点击你喜欢的人的主页上的watch来追踪他/她的最新动态。
 ***********
-###Hello Git
+### Hello Git
 GitHub只支持Git作为唯一的版本库格式进行托管，通过Git Bash也可以与GitHub上的远程仓库进行连接，它可以将GitHub上的项目取出到本地文件中的一个软件，它与远程仓库通过ssh协议进行连接
 ![](https://img-blog.csdn.net/20170422114557808?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvanRyYWN5ZHk=/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/Center)
 * 提交文件git commit -m“文件名”暂存区中的文件到仓库区中，若想上传到GitHub上还需git push将代码推送到远程仓库中
